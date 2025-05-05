@@ -20,5 +20,7 @@ A feature-rich Discord bot for playing music from YouTube in voice channels. Sea
 ## Installation
 1. **Clone or Download the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mateo-Fernandes/discord-music-bot
    cd <repository-directory>
+
+
