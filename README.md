@@ -1,10 +1,8 @@
-Absolutely! In Markdown, using headings (`#`, `##`, `###`, etc.) makes your README much more readable and helps users quickly find the information they need. Here’s your README with improved heading structure:
 
----
 
 # Discord Music Bot
 
-A feature-rich Discord bot for playing music from YouTube in voice channels. Search for songs by name or use direct YouTube URLs, queue tracks, and control playback with simple commands. When multiple songs match a search, the bot prompts users to select from the top 5 YouTube results, with a 30-second timeout. Built with Python using `discord.py` and `yt-dlp`, this bot is easy to set up and customize. Includes a `requirements.txt` for dependencies and a secure `.env` for token storage. Perfect for music lovers and server admins looking to enhance their Discord experience!
+A feature-rich Discord bot locally based for playing music from YouTube in voice channels. Search for songs by name or use direct YouTube URLs, queue tracks, and control playback with simple commands. When multiple songs match a search, the bot prompts users to select from the top 5 YouTube results, with a 30-second timeout. Built with Python using `discord.py` and `yt-dlp`, this bot is easy to set up and customize. Includes a `requirements.txt` for dependencies and a secure `.env` for token storage. Perfect for music lovers and server admins looking to enhance their Discord experience! 
 
 ---
 
