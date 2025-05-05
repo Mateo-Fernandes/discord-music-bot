@@ -147,9 +147,4 @@ Type a number (e.g., `1`) to select a song. If no response is received within 30
 Enjoy your enhanced Discord music experience!  
 **Happy jamming!** 🎶
 
----
 
-If you want further customization of heading levels or a table of contents, just ask!
-
----
-Réponse de Perplexity: pplx.ai/share
